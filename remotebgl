@@ -1,0 +1,7 @@
+#!/bin/bash
+
+git push --all origin_bit
+git push --all origin_github
+git push --all origin_lab
+
+echo "Ready"
